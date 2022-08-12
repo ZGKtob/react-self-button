@@ -1,0 +1,11 @@
+.self-button {
+  /* width: 100px; */
+  display: inline-block;
+  padding: 10px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.self-button :hover {
+  cursor: pointer;
+}
