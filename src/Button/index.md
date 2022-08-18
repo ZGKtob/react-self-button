@@ -6,6 +6,14 @@ nav:
 
 ## Button
 
+---
+
+<API></API>
+
+<!-- <API exports='["default", "Other"]'></API> -->
+
+##
+
 Demo:
 
 ```tsx
@@ -14,5 +22,3 @@ import { Button } from 'myapp';
 
 export default () => <Button title="First Demo" />;
 ```
-
-More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo

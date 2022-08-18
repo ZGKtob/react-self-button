@@ -1,6 +1,6 @@
 import React, { CSSProperties, MouseEventHandler, ReactNode } from 'react';
 import './index.css';
-interface ButtonProps {
+export interface ButtonProps {
     text: string | ReactNode;
     onClick: MouseEventHandler<HTMLDivElement>;
     onMouseDown?: MouseEventHandler<HTMLDivElement>;
