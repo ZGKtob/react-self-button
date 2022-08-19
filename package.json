@@ -19,7 +19,7 @@
     "prepublishOnly": "npm run build"
   },
   "files": [
-    "dist"
+    "docs-dist"
   ],
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
